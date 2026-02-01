@@ -1,0 +1,2 @@
+# Timeline-of-Major-Milestones-in-Artificial-Intelligence-.-
+This repository documents the historical evolution of Artificial Intelligence, highlighting key milestones such as the Turing Test, expert systems, AI winters, machine learning transition, deep learning revolution, and modern AI applications. The project emphasizes technical significance, limitations, and real-world impact of each phase.
